@@ -16,8 +16,8 @@
         "https://9gag.com/", 
         "*://*.youtube.com/*"],
       //Choose what action(Only one) to be done if you visit that website
-      "js": ["redirect.js"]   //redirect to website of your choice. Edit the address from the file
-      // ""js": ["removeBody.js"]" //Remove all the content from the website
+      "js": ["actions/redirect.js"]   //redirect to website of your choice. Edit the address from the file
+      // ""js": ["actions/removeBody.js"]" //Remove all the content from the website
     }
   ]
 
