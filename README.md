@@ -3,6 +3,7 @@ Open source "web-site blocking" add-on for firefox
 
 
 ## How to install
+Download the repo.<br>
 Follow this video
 https://youtu.be/cer9EUKegG4
 
