@@ -2,4 +2,4 @@
 
 // var e = document.body;
 // e.parentNode.removeChild(e);
-window.location = "https://workflowy.com"; // you can use any website of your choice
+window.location = "https://workflowy.com/#/d81925921284"; // you can use any website of your choice
