@@ -14,7 +14,8 @@
     {
       "matches": [  //Add websites that you want block below
         "https://9gag.com/", 
-        "*://*.youtube.com/*"],
+        "*://*.youtube.com/*",
+		"*://*.netflix.com/*"],
       //Choose what action(Only one) to be done if you visit that website
       "js": ["actions/redirect.js"]   //redirect to website of your choice. Edit the address from the file
       // ""js": ["actions/removeBody.js"]" //Remove all the content from the website
