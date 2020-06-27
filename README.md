@@ -1,6 +1,8 @@
 # DudeFocus
 Open source "web-site blocking" add-on for firefox
 
+## Version Info
+**V1.0.1**:added netflix domain
 
 ## How to install
 There are two ways to deal with this
@@ -15,3 +17,4 @@ through method-2 you are stuck with currently blocking sites. <br>
 ## Currently Blocking
 1. https://9gag.com only this
 2. youtube.com domain
+3. netflix.com domain
